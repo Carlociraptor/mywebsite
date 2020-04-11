@@ -1,7 +1,7 @@
 {
   "name": "carlwhelan",
   "version": "1.0.0",
-  "description": "",
+  "description": "My personal website",
   "main": "index.js",
   "scripts": {
     "start": "ws"
@@ -10,5 +10,13 @@
   "license": "ISC",
   "dependencies": {
     "local-web-server": "^4.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carlociraptor/mywebsite.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Carlociraptor/mywebsite/issues"
+  },
+  "homepage": "https://github.com/Carlociraptor/mywebsite#readme"
 }
