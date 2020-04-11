@@ -1,0 +1,14 @@
+{
+  "name": "carlwhelan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ws"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "local-web-server": "^4.0.0"
+  }
+}
